@@ -11,14 +11,20 @@ Alors rejoint le serveur support ci dessous.
 
 ## fichier déjà présent sur le bot
 📄 [index.js](https://github.com/imsnowwolf/paper-bot/blob/main/index.js)
+
 📄 [config.js](https://github.com/imsnowwolf/paper-bot/blob/main/config.js)
+
 📄 [emojis.json](https://github.com/imsnowwolf/paper-bot/blob/main/emojis.json)
 ----------------------
 📁 [commands]()
 
 ## Contributeurs
 🥇 `snow-_-wolf#0001`
+
 🥇 `pseudo#0000`
+
 🥇 `pseudo#0000`
+
 🥇 `pseudo#0000`
+
 🥇 `pseudo#0000`
