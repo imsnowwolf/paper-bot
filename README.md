@@ -6,4 +6,19 @@ Alors rejoint le serveur support ci dessous.
 
 
 ## Informations sur le bot
-Le serveur support : [cliquer ici](https://youtu.be/dQw4w9WgXcQ)
+📬 Le serveur support : [cliquer ici](https://youtu.be/dQw4w9WgXcQ)
+📘 Créateur du bot : `snow-_-wolf#0001`
+
+## fichier déjà présent sur le bot
+📄 [index.js](https://github.com/imsnowwolf/paper-bot/blob/main/index.js)
+📄 [config.js](https://github.com/imsnowwolf/paper-bot/blob/main/config.js)
+📄 [emojis.json](https://github.com/imsnowwolf/paper-bot/blob/main/emojis.json)
+----------------------
+📁 [commands]()
+
+## Contributeurs
+🥇 `snow-_-wolf#0001`
+🥇 `pseudo#0000`
+🥇 `pseudo#0000`
+🥇 `pseudo#0000`
+🥇 `pseudo#0000`
