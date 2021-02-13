@@ -18,11 +18,7 @@ Alors rejoint le serveur support ci dessous.
 
 ## Contributeurs
 🥇 `snow-_-wolf#0001`
-
-🥇 `pseudo#0000`
-
-🥇 `pseudo#0000`
-
-🥇 `pseudo#0000`
-
-🥇 `pseudo#0000`
+|| 🥇 `pseudo#0000`
+|| 🥇 `pseudo#0000`
+|| 🥇 `pseudo#0000`
+|| 🥇 `pseudo#0000`
