@@ -16,7 +16,7 @@ Alors rejoint le serveur support ci dessous.
 📄 [config.js](https://github.com/imsnowwolf/paper-bot/blob/main/config.js)
 
 📄 [emojis.json](https://github.com/imsnowwolf/paper-bot/blob/main/emojis.json)
-📁 [commands]()
+|| 📁 [commands]()
 
 ## Contributeurs
 🥇 `snow-_-wolf#0001`
